@@ -1,0 +1,41 @@
+.update-form {
+    margin-top: 16px;
+  }
+  
+  .update-input {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .update-button,
+  .cancel-button {
+    margin-top: 8px;
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .update-button {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .update-button:hover {
+    background-color: #218838;
+  }
+  
+  .cancel-button {
+    margin-left: 8px;
+    background-color: #dc3545;
+    color: #fff;
+  }
+  
+  .cancel-button:hover {
+    background-color: #c82333;
+  }
+  
